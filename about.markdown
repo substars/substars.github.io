@@ -6,7 +6,11 @@ permalink: /about/
 
 ## who dis?
 
-I'm a Minneapolis, MN, USA-based software maker and technology leader. Also passionate about🐰🐈🚲🤖🎛️👨‍👧🎵. 
+I'm a Minneapolis, MN, USA-based software maker and technology leader.
+
+Also passionate about🐰🐈🚲🤖🎛️👨‍👧🎵. 
+
+### socials
 
 * [mastodon: @substars@mspsocial.net](https://mspsocial.net/web/@substars)
 * [linkedin](https://www.linkedin.com/in/benortega/)
@@ -20,10 +24,4 @@ A lot of my creative works are CC-licensed, but this site is © 2014-{{ 'now' | 
 
 ## colophon 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+You can find [the source code for Minima](https://github.com/jekyll/minima) and for [Jekyll](https://github.com/jekyll/jekyll) at GitHub.
