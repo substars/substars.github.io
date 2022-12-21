@@ -4,7 +4,21 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## who dis?
+
+I'm a Minneapolis, MN, USA-based software maker and technology leader. Also passionate about🐰🐈🚲🤖🎛️👨‍👧🎵. 
+
+* [mastodon: @substars@mspsocial.net](https://mspsocial.net/web/@substars)
+* [linkedin](https://www.linkedin.com/in/benortega/)
+* [instagram: substars](https://www.instagram.com/substars/)
+* [soundcloud: thesubstars](https://soundcloud.com/thesubstars)
+* [facebook](https://www.facebook.com/ben.ortega) 
+* [youtube](https://www.youtube.com/@substars)
+* [twitter](http://pages.thesubstars.com/twitter-archive/) -- I really like this site for rabbit pictures and making fun of billionaires
+
+A lot of my creative works are CC-licensed, but this site is © 2014-{{ 'now' | date: "%Y" }} Benjamin Ortega, all rights reserved.
+
+## colophon 
 
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
@@ -13,6 +27,3 @@ You can find the source code for Minima at GitHub:
 You can find the source code for Jekyll at GitHub:
 [jekyll][jekyll-organization] /
 [jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
