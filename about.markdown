@@ -6,7 +6,7 @@ permalink: /about/
 
 ## 
 
-I'm a Minneapolis, MN, USA-based software maker. I'm a Principal Software Engineer at Best Buy where I work on engineering productivity, curating tools and practices to support my crew in shipping great software that we're proud to sign our names to.
+I'm a Minneapolis, MN, USA-based software maker. Currently a Principal Software Engineer at Best Buy where I work on engineering productivity, curating tooling and practices to support my crew in shipping great software that we're proud to sign our names to.
 
 Also passionate about 🐰🐈🚲🤖🎛️👨‍👧🎵🥁📚🏕️.
 
@@ -20,6 +20,7 @@ Also passionate about 🐰🐈🚲🤖🎛️👨‍👧🎵🥁📚🏕️.
 * [soundcloud: thesubstars](https://soundcloud.com/thesubstars)
 * [facebook](https://www.facebook.com/ben.ortega) 
 * [youtube](https://www.youtube.com/@substars)
+* [bluesky](https://bsky.app/profile/substars.bsky.social)
 * [twitter](http://pages.thesubstars.com/twitter-archive/) -- I used to like this site for rabbit pictures and making fun of billionaires
 
 A lot of my creative works are CC-licensed, but this site is © 2014-{{ 'now' | date: "%Y" }} Benjamin Ortega, all rights reserved.

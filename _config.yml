@@ -31,6 +31,10 @@ instagram_username: substars
 github_username:  substars
 linkedin_username: benortega
 youtube_username: '@substars'
+mastodon:
+  - username: substars
+    instance: mspsocial.net
+rss: rss
 
 # Build settings
 theme: minima
