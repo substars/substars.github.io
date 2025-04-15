@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-## 
-
 I'm a Minneapolis, MN, USA-based software maker. Currently a Principal Software Engineer at Best Buy where I work on engineering productivity, curating tooling and practices to support my crew in shipping great software that we're proud to sign our names to.
 
 Also passionate about 🐰🐈🚲🤖🎛️👨‍👧🎵🥁📚🏕️.
