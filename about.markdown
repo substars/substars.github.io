@@ -19,7 +19,7 @@ Also passionate about 🐰🐈🚲🤖🎛️👨‍👧🎵🥁📚🏕️.
 * [facebook](https://www.facebook.com/ben.ortega) 
 * [youtube](https://www.youtube.com/@substars)
 * [bluesky](https://bsky.app/profile/substars.bsky.social)
-* [twitter](http://pages.thesubstars.com/twitter-archive/) -- I used to like this site for rabbit pictures and making fun of billionaires
+* [twitter](http://pages.thesubstars.com/twitter-archive/) (_inactive_)
 
 A lot of my creative works are CC-licensed, but this site is © 2014-{{ 'now' | date: "%Y" }} Benjamin Ortega, all rights reserved.
 
